@@ -1,2 +1,20 @@
 # ConnectionTaxi
-Sistema de Taxi para regiões locais
+**ConnectionTaxi** é um sistema de táxi voltado para regiões locais com pouco acesso a profissionais de transporte, oferecendo uma solução prática para conectar motoristas e passageiros em áreas afastadas e com baixa disponibilidade de contatos.
+
+# 📌 Visão Geral
+Este projeto foi criado para facilitar a conexão e o gerenciamento de corridas de táxi em regiões onde há pouca disponibilidade de transporte local e o contato com motoristas nem sempre é fácil. A aplicação foi desenvolvida em **TypeScript** e utiliza uma arquitetura de backend escalável, preparada para crescimento e futuras integrações.
+
+# 🚀 Funcionalidades:
+
+# 🧱 Tecnologias Utilizadas
+O projeto foi desenvolvido com as seguintes tecnologias:
+
+- **TypeScript** — Linguagem principal do projeto
+- **Node.js** — Ambiente de execução
+- **Express** — Framework para a criação de APIs REST e etc...
+- **JWT** — *Json_Web_Token* para autênticação e autorização
+- **Bcrypt** — Criptografia de senhas
+- **Cookie-Parser** — Cookies
+- **Cors** — Compartilhamento de Recursos entre Origens
+
+# 🗂 Estrutura do Projeto
