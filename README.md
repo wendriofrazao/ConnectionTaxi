@@ -16,13 +16,14 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - **JWT** — *Json_Web_Token* para autênticação e autorização
 - **Bcrypt** — Criptografia de senhas
 - **Cookie-Parser** — Cookies
+- **Nodemailer** — Biblioteca Node.js para envios de mensagens por email
 - **Cors** — Compartilhamento de Recursos entre Origens
 
 #### Banco de dados
 - **Postgres** — Banco de dados relacional que será usado para armazenar os dados
   
 #### Api Test
-- **Postman** — Testar as Apis e etc...
+- **Postman** — Testes de Apis e etc...
 
 ### Frontend
 - **React.js + Vite** — Biblioteca para criação de interfaces e fazer componetização
