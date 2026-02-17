@@ -32,3 +32,26 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - **Tailwind** — Framework do css para estilização
 
 # 🗂 Estrutura do Projeto
+
+```
+backend/
+├─ src/
+│  ├─ core/
+│  │  ├─ errors/
+│  │  ├─ ports/
+│  │  └─ usercases/
+│  ├─ infra/
+│  │  ├─ database/
+│  │  │  ├─ connection/
+│  │  │  └─ model/
+│  │  ├─ providers/
+│  │  └─ repository/
+│  ├─ interface/
+│  │  ├─ controllers/
+│  │  ├─ middlewares/
+│  │  ├─ routes/
+│  │  └─ validators/
+│  └─ main/
+│     └─ server.ts
+└─ .env
+```
