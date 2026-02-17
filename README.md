@@ -9,6 +9,7 @@ Este projeto foi criado para facilitar a conexão e o gerenciamento de corridas 
 # 🧱 Tecnologias Utilizadas
 O projeto foi desenvolvido com as seguintes tecnologias:
 
+### Backend
 - **TypeScript** — Linguagem principal do projeto
 - **Node.js** — Ambiente de execução
 - **Express** — Framework para a criação de APIs REST e etc...
@@ -16,5 +17,15 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - **Bcrypt** — Criptografia de senhas
 - **Cookie-Parser** — Cookies
 - **Cors** — Compartilhamento de Recursos entre Origens
+
+#### Banco de dados
+- **Postgres** — Banco de dados relacional que será usado para armazenar os dados
+  
+#### Api Test
+- **Postman** — Testar as Apis e etc...
+
+### Frontend
+- **React.js + Vite** — Biblioteca para criação de interfaces e fazer componetização
+- **Tailwind** — Framework do css para estilização
 
 # 🗂 Estrutura do Projeto
